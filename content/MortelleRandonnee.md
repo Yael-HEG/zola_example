@@ -18,3 +18,12 @@ toc = true
 |enfance|
 |--------
 |Ligne 1, colonne 1|
+
+
+je ne vois pas mon *image* [^2]
+[^1]: Guillaume MATHIEU, p.3
+[^2]: Ezra GENIRA, p.4
+
+**ni mon tableau**
+
+_Quid ?_
